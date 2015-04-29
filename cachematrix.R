@@ -1,6 +1,6 @@
   ## x une matrice carree inversible
   ## retourne une liste avec les fonctions
-  ##               set  matrix, get  matrix, set  inverse, get  inverse
+  ##               set  , get  , setinverse, getinverse
   ##         cette liste est un input à chacheSolve()
 
 makeCacheMatrix <- function(x = matrix()) {
